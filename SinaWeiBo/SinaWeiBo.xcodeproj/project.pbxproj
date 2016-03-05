@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01A7C0EA1C8B065800CE7FC2 /* News.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01A7C0E91C8B065800CE7FC2 /* News.storyboard */; };
 		01C1DBB41C8B04FC002FDBA5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C1DBB31C8B04FC002FDBA5 /* main.m */; };
 		01C1DBB71C8B04FC002FDBA5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C1DBB61C8B04FC002FDBA5 /* AppDelegate.m */; };
 		01C1DBBF1C8B04FC002FDBA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01C1DBBE1C8B04FC002FDBA5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01A7C0E91C8B065800CE7FC2 /* News.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = News.storyboard; sourceTree = "<group>"; };
 		01C1DBAF1C8B04FC002FDBA5 /* SinaWeiBo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SinaWeiBo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C1DBB31C8B04FC002FDBA5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01C1DBB51C8B04FC002FDBA5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				01C1DBB51C8B04FC002FDBA5 /* AppDelegate.h */,
 				01C1DBB61C8B04FC002FDBA5 /* AppDelegate.m */,
+				01A7C0E91C8B065800CE7FC2 /* News.storyboard */,
 				01C1DBBE1C8B04FC002FDBA5 /* Assets.xcassets */,
 				01C1DBC01C8B04FC002FDBA5 /* LaunchScreen.storyboard */,
 				01C1DBC31C8B04FC002FDBA5 /* Info.plist */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01C1DBC21C8B04FC002FDBA5 /* LaunchScreen.storyboard in Resources */,
+				01A7C0EA1C8B065800CE7FC2 /* News.storyboard in Resources */,
 				01C1DBBF1C8B04FC002FDBA5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,6 +284,7 @@
 				01C1DBC81C8B04FC002FDBA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
